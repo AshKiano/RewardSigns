@@ -1,0 +1,18 @@
+messages:
+  monthlyLimit: "You can only receive this reward once a month!"
+signs:
+  world_name:
+    #"60,70,1090": Reward1
+    "x,y,z": Reward1
+    "x2,y2,z2": Reward2
+rewards:
+  Reward1:
+    - "give %player% diamond 1"
+    - "give %player% gold_block 1"
+  Reward2:
+    - "give %player% diamond 2"
+    - "give %player% gold_block 2"
+
+
+#Do not change nothing in players until you are sure what will happen!
+players:

@@ -1,0 +1,5 @@
+name: RewardSigns
+version: '${project.version}'
+main: com.ashkiano.rewardsigns.RewardSigns
+api-version: '1.16'
+authors: [ AshKiano ]
